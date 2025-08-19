@@ -47,6 +47,6 @@ Model dievaluasi menggunakan:
 
 ## ☁️ Wordcloud Sentimen
 
-Berikut visualisasi Wordcloud Negatif berdasarkan hasil preprocessing dan pelabelan sentimen:
+Berikut visualisasi Wordcloud berdasarkan hasil preprocessing dan pelabelan sentimen:
 
   ![Wordcloud Negatif](/wordcloud.png)
